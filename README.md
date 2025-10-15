@@ -106,6 +106,6 @@ Mostre a **média final** e o **conceito**, conforme a tabela:
 
 ---
 
-Feito por **[Júlia Martins](https://github.com/Juuh07)**  
+by **[Júlia Martins](https://github.com/Juuh07)**  
 
 ---
