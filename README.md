@@ -12,7 +12,7 @@
 ### 1. Diferença entre dois valores 🔢  
 Leia dois valores inteiros e apresente o resultado da diferença do **maior valor pelo menor valor**.  
 Se os valores forem iguais, o programa deve mostrar **zero**.  
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRSII/raw/refs/heads/main/Ex01.java)
 
 ---
 
@@ -21,7 +21,7 @@ Leia um valor inteiro.
 Mostre a mensagem:  
 - “O valor está na faixa permitida”, caso o valor esteja entre **1 e 9**;  
 - “O valor está fora da faixa permitida”, caso contrário.  
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRSII/raw/refs/heads/main/Ex02.java)
 
 ---
 
@@ -32,7 +32,7 @@ Mostre:
 - “A equação não possui raízes reais” → se Δ < 0  
 - “A equação possui duas raízes reais” → se Δ > 0  
 - “A equação possui uma única raiz real” → se Δ = 0  
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRSII/raw/refs/heads/main/Ex03.java)
 
 ---
 
@@ -42,38 +42,38 @@ Condição: cada par de lados somados **não pode ser menor ou igual ao terceiro
 Mostre:  
 - “Os lados formam um triângulo”  
 - “Os valores informados não podem formar um triângulo”  
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRSII/raw/refs/heads/main/Ex04.java)
 
 ---
 
 ### 5. Divisíveis por 2 e 3 ✴️  
 Leia quatro valores inteiros e mostre **quais são divisíveis por 2 e por 3**.  
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRSII/raw/refs/heads/main/Ex05.java)
 
 ---
 
 ### 6. Divisíveis por 2 ou 3 ➗  
 Leia quatro valores inteiros e mostre **quais são divisíveis por 2 ou por 3**.  
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRSII/raw/refs/heads/main/Ex06.java)
 
 ---
 
 ### 7. Maior valor entre três números ⬆️  
 Leia três valores inteiros e apresente o **maior valor informado**.  
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRSII/raw/refs/heads/main/Ex07.java)
 
 ---
 
 ### 8. Menor valor entre três números ⬇️  
 Leia três valores inteiros e apresente o **menor valor informado**.  
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRSII/raw/refs/heads/main/Ex08.java)
 
 ---
 
 ### 9. Reajuste salarial 💵  
 Uma empresa dá **30% de aumento** para funcionários com salário inferior a **R$ 5000,00**.  
 Leia o salário de um funcionário e mostre o **novo valor** com reajuste aplicado, se for o caso.  
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRSII/raw/refs/heads/main/Ex09.java)
 
 ---
 
@@ -93,7 +93,7 @@ Mostre a **média final** e o **conceito**, conforme a tabela:
 | 5,0 a 6,0 | D |
 | 0,0 a 5,0 | E |
 
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRSII/raw/refs/heads/main/Ex10.java)
 
 ---
 
