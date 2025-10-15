@@ -42,6 +42,7 @@ Condição: cada par de lados somados **não pode ser menor ou igual ao terceiro
 Mostre:  
 - “Os lados formam um triângulo”  
 - “Os valores informados não podem formar um triângulo”  
+
 🔗 [Ver código](https://github.com/Juuh07/Java-IFRSII/raw/refs/heads/main/Ex04.java)
 
 ---
