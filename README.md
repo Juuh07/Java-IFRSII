@@ -36,7 +36,7 @@ Mostre:
 
 ---
 
-### 4. Verificação de triângulo 🔺  
+### 4. Verificação de triângulo 📐
 Leia três valores (A, B e C) e verifique se eles **formam um triângulo**.  
 Condição: cada par de lados somados **não pode ser menor ou igual ao terceiro lado**.  
 Mostre:  
